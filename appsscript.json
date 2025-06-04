@@ -1,0 +1,66 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "RHCCRestApi",
+        "version": "1",
+        "libraryId": "1jGaxhSKTnmA6xGw3QNIQl2STfhuuefq8ZL1eIfaMS7lz13aPR6KujXWc"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro 1",
+        "functionName": "UntitledMacro1"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro 1",
+        "functionName": "UntitledMacro1"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "Untitled Macro 1",
+        "functionName": "UntitledMacro1"
+      },
+      {
+        "menuName": "print macro",
+        "functionName": "printmacro"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      },
+      {
+        "menuName": "rows",
+        "functionName": "rows"
+      },
+      {
+        "menuName": "Untitled Macro",
+        "functionName": "UntitledMacro"
+      }
+    ]
+  }
+}
